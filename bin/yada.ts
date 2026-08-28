@@ -1,6 +1,6 @@
 #!/usr/bin/env -S node --experimental-strip-types
 /**
- * @package princess-pi-packages
+ * @package princess-pi-tools
  * @command yada
  * @description Dynamic streaming log deduplicator with fuzzy matching and periodicity detection.
  */

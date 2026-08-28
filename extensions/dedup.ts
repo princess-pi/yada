@@ -1,5 +1,5 @@
 /**
- * @package princess-pi-packages
+ * @package princess-pi-tools
  * @spec docs/EXT_DEDUP.html
  */
 import type { ExtensionAPI } from "@earendil-works/pi-coding-agent";
