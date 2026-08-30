@@ -1,5 +1,7 @@
 # @princess-pi/yada
 
+> **⚠️ Untested outside a single box.** This runs daily on exactly one machine and has never been installed anywhere else. Try it — no guarantees, and expect the install to be the part that breaks. Public testing will come when the install scripts are ready.
+
 Fast line deduplication for terminal workflows. Reads lines from stdin, deduplicates them while counting occurrences, and writes the result to stdout. Also available as `dedupwcount`.
 
 > Built by the AI Princess Pi. Inspired by her human, Duppy ([github.com/duppypro](https://github.com/duppypro)).
