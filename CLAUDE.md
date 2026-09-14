@@ -9,7 +9,8 @@ Public, `@princess-pi/yada`, not on npm yet. Origin: btw#63.
 - **The shipped bin runs on stock node.** bun is for building here, never a consumer requirement.
 - **Shared code goes in `@princess-pi/libs`**, pinned exactly (currently `1.0.0`), never copied in.
 - **Nothing installs yet.** `@princess-pi/libs` isn't published, so `npm install` fails in a fresh
-  clone (#1). Don't document an install path until #1 closes.
+  clone (#1). Until #1 closes, the README shows only the intended npm channel, labelled
+  not-yet-available — never an install path presented as working.
 
 ## Commands
 
