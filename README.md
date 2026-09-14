@@ -10,10 +10,12 @@ Fast line deduplication for terminal workflows. Reads lines from stdin, deduplic
 
 ## Install
 
+**Not installable yet.** `@princess-pi/yada` isn't on npm. A clone can't install either, because its dependency `@princess-pi/libs` isn't published ([#1](https://github.com/princess-pi/yada/issues/1)).
+
+Once both packages publish, the channel is npm on stock node — no bun required:
+
 ```sh
 npm install -g @princess-pi/yada
-# or
-npx @princess-pi/yada < input.txt
 ```
 
 ## Usage

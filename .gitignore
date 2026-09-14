@@ -1,3 +1,6 @@
 node_modules/
 dist/
 bun.lock
+
+# Worktrees are in-tree; a per-clone exclude protects only one machine.
+.claude/worktrees/
